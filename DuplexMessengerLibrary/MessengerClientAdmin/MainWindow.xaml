@@ -1,0 +1,10 @@
+﻿<Window x:Class="MessengerClientAdmin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="550" Width="925">
+    <Grid>
+        <RichTextBox Name="TextDisplayRichTextBox"  Margin="27,10,31,101"/>
+        <TextBox Name="MessageTextBox" Height="50" Width="700" Margin="27,451,190,19" KeyDown="MessageTextBox_KeyDown"></TextBox>
+        <Button Name="SendButton" Content="Send"  Margin="750,451,10,19" Click="SendButton_Click"/>
+    </Grid>
+</Window>

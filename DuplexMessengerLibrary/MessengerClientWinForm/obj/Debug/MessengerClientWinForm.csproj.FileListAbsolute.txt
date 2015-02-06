@@ -1,0 +1,11 @@
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientWinForm\bin\Debug\MessengerClientWinForm.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientWinForm\bin\Debug\MessengerClientWinForm.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientWinForm\bin\Debug\MessengerClientWinForm.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientWinForm\bin\Debug\MessengerInterfaces.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientWinForm\bin\Debug\MessengerInterfaces.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientWinForm\obj\Debug\MessengerClientWinForm.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientWinForm\obj\Debug\MessengerClientWinForm.FMessenger.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientWinForm\obj\Debug\MessengerClientWinForm.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientWinForm\obj\Debug\MessengerClientWinForm.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientWinForm\obj\Debug\MessengerClientWinForm.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientWinForm\obj\Debug\MessengerClientWinForm.pdb

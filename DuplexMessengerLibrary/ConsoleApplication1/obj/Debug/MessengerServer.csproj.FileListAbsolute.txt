@@ -1,0 +1,13 @@
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.manifest
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.application
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\bin\Debug\MessengerInterfaces.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\bin\Debug\MessengerInterfaces.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\obj\Debug\MessengerServer.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.TrustInfo.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe.manifest
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.application
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

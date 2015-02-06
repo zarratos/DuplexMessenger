@@ -1,0 +1,4 @@
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerInterfaces\bin\Release\MessengerInterfaces.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerInterfaces\bin\Release\MessengerInterfaces.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerInterfaces\obj\Release\MessengerInterfaces.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerInterfaces\obj\Release\MessengerInterfaces.pdb

@@ -1,0 +1,15 @@
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\bin\Debug\MessengerClientAdmin.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\bin\Debug\MessengerClientAdmin.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\bin\Debug\MessengerClientAdmin.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\bin\Debug\MessengerInterfaces.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\bin\Debug\MessengerInterfaces.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\obj\Debug\App.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\obj\Debug\MessengerClientAdmin_MarkupCompile.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\obj\Debug\MessengerClientAdmin.g.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\obj\Debug\MessengerClientAdmin.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\obj\Debug\MessengerClientAdmin.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\obj\Debug\MessengerClientAdmin.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\obj\Debug\MessengerClientAdmin.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\MessengerClientAdmin\obj\Debug\MessengerClientAdmin.csprojResolveAssemblyReference.cache

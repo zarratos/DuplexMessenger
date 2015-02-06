@@ -1,0 +1,12 @@
+﻿Build started 1/26/2015 1:48:41 PM.
+     1>Project "C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\C++Project\C++Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\installed\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\C++Project.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt C++Project.cpp
+         C++Project.cpp
+     1>c:\users\администратор\documents\visual studio 2013\projects\duplexmessengerlibrary\c++project\c++project.cpp(7): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\installed\vs2013\vc\include\stdio.h(226) : see declaration of 'freopen'
+     1>Done Building Project "C:\Users\Администратор\Documents\Visual Studio 2013\Projects\DuplexMessengerLibrary\C++Project\C++Project.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.16
